@@ -36,7 +36,7 @@ case class Cow() extends Animal {
   *
   * @author I.A
   */
-object Main extends App {
+object Exercise0 extends App {
   val dog = Dog()
   val cat = Cat()
   val cow = Cow()
